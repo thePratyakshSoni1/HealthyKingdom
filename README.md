@@ -1,4 +1,8 @@
 # Healthy Kingdom
+<div style="display: flex-box; min-width: 500px">
+  <img style="width: 45%; min-width: 300px;" src="screens2.png"/>
+  <img style="width: 45%; min-width: 300px;"  src="screems1.png"/>
+</div>
 
 ## Problem
 When there is an case of Medical Emergency in India, there are many cases when peoples are unable to get the required life-fluid i.e. Blood, Platelets, Plasma, etc. this is may be wrong information, less knowledge, lack of connections, etc.
